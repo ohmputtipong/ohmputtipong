@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Puttipong Charoen</h1>
 <h3 align="center">A Web Developer from Thailand</h3>
-<h4 align="center">Hi my name is Puttipong Charoen a web developer based out of Bangkok, Thailand. I've had a fresh graduate this year and know that I love coding. I'm a passionate web developer that specializes in HTML, CSS and WordPress. Also, I love to work under pressure with team play that why I want to start my career path in a coding way. </h4>
+<h4 align="center">Hi my name is Puttipong Charoen a web developer based out of Bangkok, Thailand. I've had a fresh graduate this year and know that I love coding. I'm a passionate web developer that specializes in HTML, CSS and WordPress. Also, I love to work under pressure with team play that why I want to work as Web Developer. </h4>
 
 <hr>
 
