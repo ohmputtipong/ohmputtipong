@@ -46,7 +46,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML, CSS </strong></p>
           <p>
 						Description goes here
 					</p>
@@ -68,7 +68,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
+					 <p><strong>HTML, CSS </strong></p>
 					<p>Description goes here</p>
 				</div>
         </tr>
