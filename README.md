@@ -72,6 +72,7 @@
 					<p>AirBnb Clone</p>
 				</div>
 			</td>
+			<tr>
 			<td width="50%">
 				<h3 align="center">Project 3</h3>
 				<div align="center" >  
