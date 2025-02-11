@@ -39,7 +39,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://ohmfbclone.onrender.com/" target="_blank">
+						<a href="https://github.com/ohmputtipong/my-fb-clone" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://ohmfbclone.onrender.com/" target="_blank">
@@ -61,7 +61,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://my-airbnb-clone-web.onrender.com/#" target="_blank">
+						<a href="https://github.com/ohmputtipong/my-airbnb-clone" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://my-airbnb-clone-web.onrender.com/#" target="_blank">
@@ -82,7 +82,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://my-ohm-foodelish.onrender.com/" target="_blank">
+						<a href="https://github.com/ohmputtipong/foodelish-project" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href=""https://my-ohm-foodelish.onrender.com/"" target="_blank">
